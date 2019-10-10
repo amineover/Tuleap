@@ -36,7 +36,7 @@ Si vous utilisez Red Hat, vous devrez activer le canal facultatif.
 ### Install remi-safe repository (nécessaire pour les dépendances PHP) :
        yum install https://rpms.remirepo.net/enterprise/remi-release-7.rpm
  
-### Install Tuleap repositories Create a /etc/yum.repos.d/Tuleap.repo avec ce contenu :  
+### Installer les référentiels Tuleap Créer un /etc/yum.repos.d/Tuleap.repo avec ce contenu :  
 
         [Tuleap]
         name=Tuleap
