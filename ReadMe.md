@@ -21,7 +21,8 @@ Pour installer Tuleap, vous aurez besoin d’un serveur entièrement dédié. Il
 
 ## Configure les dépendances et télécharge les packages RPM :
 
-Installer EPEL Vous aurez besoin de EPEL pour certaines dépendances:
+Installer EPEL Vous aurez besoin de EPEL pour certaines dépendances :
+
        yum install -y epel-release
      
 Si vous utilisez Red Hat, vous devrez activer le canal facultatif.
