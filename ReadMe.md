@@ -27,7 +27,7 @@ Installer EPEL Vous aurez besoin de EPEL pour certaines dépendances :
      
 Si vous utilisez Red Hat, vous devrez activer le canal facultatif.
 
-## Installer les référentiels de collections de logiciels On CentOS this is done by :
+## Installer les référentiels de collections de logiciels On CentOS Ceci est fait par :
        yum install centos-release-scl
 
 ### On RedHat this is done by :
