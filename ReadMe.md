@@ -30,10 +30,10 @@ Si vous utilisez Red Hat, vous devrez activer le canal facultatif.
 ## Installer les référentiels de collections de logiciels On CentOS Ceci est fait par :
        yum install centos-release-scl
 
-### On RedHat this is done by :
+### On RedHat Ceci est fait par :
        yum-config-manager --enable rhel-server-rhscl-7-rpms
        
-### Install remi-safe repository (needed for PHP dependencies) :
+### Install remi-safe repository (nécessaire pour les dépendances PHP) :
        yum install https://rpms.remirepo.net/enterprise/remi-release-7.rpm
  
 ### Install Tuleap repositories Create a /etc/yum.repos.d/Tuleap.repo avec ce contenu :  
